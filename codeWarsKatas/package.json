@@ -1,0 +1,15 @@
+{
+  "name": "codewarskatas",
+  "version": "1.0.0",
+  "description": "code wars problems with solutions and tests",
+  "license": "ISC",
+  "author": "skye/lucy",
+  "type": "commonjs",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^6.2.2"
+  }
+}
